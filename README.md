@@ -7,7 +7,7 @@ Hi there 👋, I'm Sam S   <br><br>I’m a **passionate Gen AI Developer** who e
 # 📊 GitHub Stats:
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=SamStar3&theme=dark" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamStar3&layout=compact&theme=dark" height="180em"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SamStar3&layout=compact&theme=dark" height="180em" />
 </p>
 
 
