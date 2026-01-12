@@ -6,8 +6,9 @@ Hi there 👋, I'm Sam S   <br><br>I’m a **passionate Gen AI Developer** who e
 
 # 📊 GitHub Stats:
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=SamStar3&theme=dark&hide_border=false" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamStar3&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" height="180em" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=SamStar3&theme=dark" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamStar3&layout=compact&theme=dark" height="180em"/>
 </p>
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
